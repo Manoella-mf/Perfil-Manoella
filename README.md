@@ -38,3 +38,13 @@ Olá! Sou a Manoella Felippe
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=footer"/>
+
+## Projects 
+
+### Projects I'd Like You to Check Out 
+
+###Music Project ( [Back-End] (https://github.com/Manoella-mf/TrabalhoProgramacao.git))
+Projeto realizado na terceira fase do curso, usando Java e a biblioteca Swing da IDE para a interface gráfica. O objetivo do trabalho foi criar uma plataforma onde os usuários pudessem fazer login e procurar seu estilo musical, artista ou album desejado.
+
+###Bradesco Project ([Back-End] (https://github.com/Manoella-mf/DIO-trilha_Java-Basico.git))
+Bootcamp do Bradesco com foco em BackEnd em Java, que ainda está em andamento.
