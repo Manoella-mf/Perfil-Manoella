@@ -5,7 +5,7 @@ Olá! Sou a Manoella Felippe
 - 🔭 Estudante de Engenharia de Software
 - 🌱 Desenvolvendo habilidades em Java e HTML/CSS
 - 💬 A procura de um estágio na área
-- 😄 Pronouns: ela/dela
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Manoella-mf&show_icons=true&count_private=true&hide_border=true&title_color=DB7093&icon_color=DB7093&text_color=c9d1d9&bg_color=0d1117" alt="Manoella Marques Felippe github stats" /> 
@@ -46,6 +46,4 @@ Olá! Sou a Manoella Felippe
 Music Project ([Back-End] (https://github.com/Manoella-mf/TrabalhoProgramacao.git))
 Projeto realizado na terceira fase do curso, usando Java e a biblioteca Swing da IDE para a interface gráfica. O objetivo do trabalho foi criar uma plataforma onde os usuários pudessem fazer login e procurar seu estilo musical, artista ou album desejado.
 
-Bradesco Project ([Back-End] (https://github.com/Manoella-mf/DIO-trilha_Java-Basico.git))
-Bootcamp do Bradesco com foco em BackEnd em Java, que ainda está em andamento.
 
